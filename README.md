@@ -13,5 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectorqin&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectorqin&show_icons=true&count_private=true&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorqin&show_icons=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorqin&repo=hyperf-generator)](https://github.com/hectorqin/hyperf-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorqin&repo=sublime-devdocs)](https://github.com/hectorqin/sublime-devdocs)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorqin&repo=debundle)](https://github.com/hectorqin/debundle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hectorqin&repo=hyper-reorderable-tabs)](https://github.com/hectorqin/hyper-reorderable-tabs)
+
